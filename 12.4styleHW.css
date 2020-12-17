@@ -1,13 +1,13 @@
 <body>
 body{background-color: lightblue}
-p{border: 10% solid black;
-  background-color: pink;
+p{text-align: center;
+  font-style: sans-serif;
   margin-top:5%
   margin-right: auto;
-  margin-bottom: 50%;
+  margin-bottom: 5%;
   margin-left: auto;}
 b{color: green;
   font-weight: bolder;
   font-size: 200%;}
 em{font-weight: bold;
-   font-size: 130%}
+   font-size: 100%}
